@@ -44,8 +44,11 @@ Currently at **IBM**, I focus on designing scalable solutions, building REST API
 
 ## 🔥 Featured Projects
 
-<a href="http://insta-clone-ryan.herokuapp.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=Instagram-Clone&theme=gruvbox""></a>
-<a href="https://inotebook-react.netlify.app/login" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=iNotebook&theme=gruvbox""></a>
+**Instagram Clone**  
+Built a full-stack clone using React.js and Firebase with authentication, image upload, and a responsive UI.
+
+**iNotebook**  
+A secure note-keeping app with login, tagging, and CRUD operations using React and Node.js.
 
 ---
 
