@@ -1,46 +1,37 @@
 ## Hi there 👋
 
-I’m Ryan — Full Stack Developer working on **Angular** + **Spring Boot microservices** in enterprise IBM environments.  
-I enjoy building scalable, maintainable applications, integrating AI into real-world projects, and solving complex problems across frontend and backend.
+I’m Ryan — Full-Stack Software Engineer with over 2 years of experience building enterprise-grade applications using **Angular**, **Spring Boot**, **Express.js**, and **DB2**.  
+Currently at **IBM**, I focus on designing scalable solutions, building REST APIs, and collaborating in Agile environments.
 
 ---
 
 ## 🚀💻 Tech Stack
 
-**Frontend & UI**
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Carbon Design System](https://img.shields.io/badge/Carbon%20Design%20System-000000?style=flat-square&logo=ibm&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=Sass&logoColor=white)
-
-**Backend & APIs**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+**Languages**
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**DevOps & Tools**
+**Frameworks**
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**
+![DB2](https://img.shields.io/badge/IBM%20DB2-003B57?style=flat-square&logo=ibm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-
-**Databases & Messaging**
-![DB2](https://img.shields.io/badge/IBM%20DB2-003B57?style=flat-square&logo=ibm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-
-**Monitoring & Cloud**
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
-![Instana](https://img.shields.io/badge/Instana-FFCC00?style=flat-square&logo=instana&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
-![LogDNA](https://img.shields.io/badge/LogDNA-000000?style=flat-square)
-
-**Programming Languages**
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -53,9 +44,16 @@ I enjoy building scalable, maintainable applications, integrating AI into real-w
 
 ## 🔥 Featured Projects
 
-<a href="https://w3.ibm.com/w3publisher/intercompany-dou-application/access-to-ida/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=intercompany-dou-application&theme=gruvbox""></a>
-<a href="https://github.com/ryanfardeen/AI-Email-Summarizer" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=AI-Email-Summarizer&theme=gruvbox""></a>
-<a href="https://github.com/ryanfardeen/Session-Timeout-Handler" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=Session-Timeout-Handler&theme=gruvbox""></a>
+<a href="http://insta-clone-ryan.herokuapp.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=Instagram-Clone&theme=gruvbox""></a>
+<a href="https://inotebook-react.netlify.app/login" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanfardeen&repo=iNotebook&theme=gruvbox""></a>
+
+---
+
+## 🎓 Education
+
+- **B.E. Computer Science** — Rajalakshmi Engineering College, Chennai — 89.7% (2019–2023)
+- **Higher Secondary** — Computer Science — 85.3%
+- **High School** — Science & Maths — 95.2%
 
 ---
 
